@@ -1,6 +1,6 @@
 baseURL = 'https://leebee-dev.github.io/'
 languageCode = 'ko-kr'
-title = '아무것도 모르는 사람이 관리하는 블로그'
+title = '아는게 없는 사람'
 theme = 'hugo-theme-m10c'
 
 [[menu.main]]
